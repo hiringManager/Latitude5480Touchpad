@@ -46,3 +46,14 @@ This shows me that the ApntEx.exe sends the pointing stick messages to Apoint.ex
 *   Does the windows setting affect this?
 *   How does HID Filter play into all of this?
 *   Is there a non-admin solution to this? (Required to blacklist whatever EXE is the bastard)
+*   Maybe that's why the fucking windows store packages doesn't work. .pkg files don't have write access to certain sys directories, so that could be why it's so unreliable
+
+## Status:
+
+* Tray Icon doesn't work. 
+*   You may be able to change the name and symlink it to %PROGRAMDATA%\DellWhatever\WhateverTheNameIs.exe
+*   Those cheap bastards LITERALLY are using the legacy tray icon just to open the garbage store app lmao. That's probably some /Dell/Shit/ though, not ALPS.
+*   After install 'Nov 26 2019 Driver, latency when going from touchpad to nipple / vice-versa. *Probably due to the clicklock thingy*
+
+## How To:
+      Install Nov 26 2019 Driver from 
