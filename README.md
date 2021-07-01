@@ -1,5 +1,11 @@
 # How To Use The Legacy Dell Configuration Instead of The Broken Windows Store App
 
+## This is the best solution. It is the Windows 7 Driver. If you want to save some time, use it.
+
+https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=94HPR&oscode=W764&productcode=latitude-15-5580-laptop
+
+## Previous solution
+
 * This allows you to configure your trackpad, and the pointing stick with some extra features that are fantastic, and you already have it installed! It's the legacy app that you loved before they completely broke it. Imagine that. #Dell
 * This may work with non-Admin accounts, but I'm not sure until I get some feedback
 * This will 99% work on all Dell Models that require 'Dell Touchpad Settings' or 'Dell Touchpad Assistant', but I only have a Latitude 5480/5488. And your drivers need to come with that legacy .exe obviously.
